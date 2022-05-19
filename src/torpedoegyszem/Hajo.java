@@ -25,6 +25,7 @@ public class Hajo {
     }
     
     public String talalat(int poz){
+        TorpedoTeszt.tesztLoves(poz);
         return "talált";
     }
 }
